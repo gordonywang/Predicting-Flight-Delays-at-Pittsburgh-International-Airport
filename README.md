@@ -1,5 +1,5 @@
 # Predicting-Flight-Delays-at-Pittsburgh-International-Airport
-Final Project | 36-462: Data Mining
+Final Project | 36-462: Data Mining | Fall 2018
 
 •	Forecasted as team of 3 flight departure delays in 2017 at Pittsburgh International Airport with classification predictive modeling, utilizing combination of Bureau of Transportation Statistics commercial flight data and NOAA weather data. 
 
