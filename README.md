@@ -9,5 +9,7 @@ Final Project | 36-462: Data Mining
 
 The code for XGBoost implementation can be found above in the xgboost_tuning.rmd file.
 
+The R environment file needed to run the XGBoost code is avaiable above as temp_env.Rdata
+
 The final report for this project can be accessed via the .doc file above.
 
