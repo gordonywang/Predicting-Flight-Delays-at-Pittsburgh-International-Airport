@@ -11,10 +11,10 @@ Final Project | 36-462: Data Mining | Fall 2018
 Project instructions are in pdf file: (final_project_description2018.pdf)
 
 My code for XGBoost implementation can be found above conveniently in knitted PDF: (xgboost_tuning.pdf).
-For code that you can run, download (xgboost_tuning.rmd) (WARNING takes 11-15 minutes to run!) 
+For runnable code, download (xgboost_tuning.rmd) (WARNING takes 15-20 minutes to run completely!) 
 
-The R environment file needed to run the XGBoost code is available above as (temp_env.Rdata)
+R environment file with data needed to run the XGBoost code is available above as (temp_env.Rdata)
 
-Detailed explanation of tuning methodology will be uploaded soon.
+Detailed explanation of tuning methodology (available soon)
 
-The final report is PDF file: (Predicting Flight Delays At Pittsburgh International Airport Write-up.pdf)
+The final report is PDF file: (Predicting Flight Delays At Pittsburgh International Airport Write-up.pdf) (available soon)
