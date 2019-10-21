@@ -5,7 +5,8 @@ Final Project | 36-462: Data Mining | Fall 2018
 
 •	Built and validated one of two machine learning algorithms required for project by implementing gradient boosting decision tree ensemble models in R with XGBoost. 
 
-• Achieved augmented performance of 0.7027 on hold-out test set as measured by AUC through carefully tuning 6 sensitive parameters via stratified k-fold cross-validation and random grid search with R's caret package.
+• Achieved 9% increase in hold-out test set performance as evaluated by AUC through carefully tuning 6 hyper-parameters in 
+R via caret package's random grid search with stratified k-fold cross-validation.
 
 
 Project instructions are in pdf file: (final_project_description2018.pdf)
