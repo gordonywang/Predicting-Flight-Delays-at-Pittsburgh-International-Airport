@@ -16,6 +16,6 @@ For runnable code, download (xgboost_tuning.rmd) (WARNING takes 15-20 minutes to
 
 R environment file with data needed to run the XGBoost code is available above as (temp_env.Rdata)
 
-Detailed explanation of tuning methodology (available soon)
+Explanation of tuning methodology can be found above as XGBoost Tuning Methodology.docx.
 
 The final report is PDF file: (Predicting Flight Delays At Pittsburgh International Airport Write-up.pdf) (available soon)
