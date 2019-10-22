@@ -18,4 +18,4 @@ R environment file with data needed to run the XGBoost code is available above a
 
 Explanation of tuning methodology can be found above as XGBoost Tuning Methodology.docx.
 
-The final report is PDF file: (Predicting Flight Delays At Pittsburgh International Airport Write-up.pdf) (available soon)
+The final report is PDF file: (Predicting Flight Delays At Pittsburgh International Airport Write-up.pdf) 
