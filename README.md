@@ -1,11 +1,11 @@
 # Predicting-Flight-Delays-at-Pittsburgh-International-Airport
 Final Project | 36-462: Data Mining | Fall 2018
 
-•	Forecasted as team of 3 flight delays in 2017 with classification predictive modeling, utilizing Bureau of Transportation Statistics flight data and NOAA weather data from 2015-2016.
+•	Forecasted as team of 3 flight delays in 2017 with classification predictive modeling, using Bureau of Transportation Statistics flight data and NOAA weather data from 2015-2016.
 
-•	Implemented one of two machine learning algorithms total required for project by building, training, and validating gradient boosting decision tree (GBDT) ensemble models in R with XGBoost.
+•	Implemented one of two machine learning algorithms for project by building and validating gradient boosting decision tree (GBDT) ensemble models in R with XGBoost.
 
-•	Achieved 9% increase in performance on hold-out test set as evaluated by area under the ROC curve (AUC) through tuning 6 model hyper-parameters in R via stratified k-fold cross-validation and caret package's random search.
+•	Achieved 9% increase in performance on test set as evaluated by area under ROC curve (AUC) through tuning 6 hyper-parameters with random search and k-fold cross-validation via R’s caret package.
 
 
 
