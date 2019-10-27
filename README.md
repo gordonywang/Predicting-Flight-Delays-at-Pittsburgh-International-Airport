@@ -5,7 +5,7 @@ Final Project | 36-462: Data Mining | Fall 2018
 
 •	Implemented one of two machine learning algorithms for project by building and validating gradient boosting decision tree (GBDT) ensemble models in R with XGBoost.
 
-•	Achieved 9% increase in performance on test set as evaluated by area under ROC curve (AUC) through tuning 6 hyper-parameters with random search and k-fold cross-validation via R’s caret package.
+•	Achieved 9.09% increase in performance on test set as evaluated by area under ROC curve (AUC) through tuning 6 hyper-parameters with random search and k-fold cross-validation via R’s caret package.
 
 
 
