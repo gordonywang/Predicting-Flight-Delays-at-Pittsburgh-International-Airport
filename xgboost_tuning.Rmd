@@ -682,6 +682,10 @@ sum(is.na(test_df$DEP_DEL15))/nrow(test_df)  # 1.286% of data  (can safely drop 
 # Drop NA values for DEP_DEL15 in test set because we dropped NA values for train set too 
 test_df = test_df[complete.cases(test_df$DEP_DEL15), ]
 
+# Change airline id value not present among airline id factors of 2015-2016 to most common airline id
+test_df[test_df$AIRLINE_ID == 20416, "AIRLINE_ID"] = 19393
+test_df$AIRLINE_ID = factor(test_df$AIRLINE_ID)
+
 # Factor test set's features to match features that were factored in full training set
 test_df$AIRLINE_ID = factor(test_df$AIRLINE_ID)
 test_df$MONTH = factor(test_df$MONTH)
